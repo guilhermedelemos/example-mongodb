@@ -1,0 +1,23 @@
+{
+  "name": "example-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermedelemos/example-mongodb.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilhermedelemos/example-mongodb.git"
+  },
+  "homepage": "https://github.com/guilhermedelemos/example-mongodb.git#readme",
+  "dependencies": {
+    "mongodb": "^3.6.2",
+    "uuid-mongodb": "^2.3.0"
+  }
+}
